@@ -1,0 +1,5 @@
+-- local buff			= import( 'game_logic.buff' )
+-- local trigger		= import( 'game_logic.trigger' )
+local condition			= import( 'game_logic.condition' )
+local actions			= import( 'utils.actions' )
+local command			= import( 'game_logic.command' )

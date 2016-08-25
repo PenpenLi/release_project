@@ -1,0 +1,3 @@
+_G['data'].notice = {
+
+}
