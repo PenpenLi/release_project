@@ -1,0 +1,528 @@
+{
+ "animation_data": [
+  {
+   "name": "renB", 
+   "mov_data": [
+    {
+     "name": "Stand", 
+     "twE": 0, 
+     "to": 0, 
+     "lp": true, 
+     "mov_bone_data": [
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "bd_dst": 771, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0, 
+         "bd_src": 1
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "Layer5"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 1, 
+         "bd_dst": 771, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0, 
+         "bd_src": 1
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "Layer4"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 1, 
+         "bd_dst": 771, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0, 
+         "bd_src": 1
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "Layer3"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 1, 
+         "bd_dst": 771, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0, 
+         "bd_src": 1
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "Layer2"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 2, 
+         "bd_dst": 771, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0, 
+         "bd_src": 1
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "Layer1"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 1, 
+         "bd_dst": 771, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0, 
+         "bd_src": 1
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "武器"
+      }
+     ], 
+     "sc": 0.5, 
+     "drTW": 0, 
+     "dr": 1
+    }
+   ]
+  }
+ ], 
+ "armature_data": [
+  {
+   "bone_data": [
+    {
+     "kX": 0.0, 
+     "name": "Layer5", 
+     "parent": "", 
+     "dI": 0, 
+     "bl": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": -332.60162353515625, 
+     "x": 311.7659606933594, 
+     "kY": 0.0, 
+     "z": 6, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "img/mainHand (6).png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "Layer4", 
+     "parent": "", 
+     "dI": 1, 
+     "bl": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": -331.14398193359375, 
+     "x": -2.452859878540039, 
+     "kY": 0.0, 
+     "z": 5, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "img/4.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }, 
+      {
+       "displayType": 0, 
+       "name": "img/mainHand (5).png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "Layer3", 
+     "parent": "", 
+     "dI": 1, 
+     "bl": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": -61.286956787109375, 
+     "x": 515.9756469726562, 
+     "kY": 0.0, 
+     "z": 4, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "img/3.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }, 
+      {
+       "displayType": 0, 
+       "name": "img/mainHand (4).png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "Layer2", 
+     "parent": "", 
+     "dI": 1, 
+     "bl": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": -44.286949157714844, 
+     "x": 345.8328552246094, 
+     "kY": 0.0, 
+     "z": 3, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "img/2.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }, 
+      {
+       "displayType": 0, 
+       "name": "img/mainHand (3).png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "Layer1", 
+     "parent": "", 
+     "dI": 2, 
+     "bl": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": -36.0012321472168, 
+     "x": 196.69000244140625, 
+     "kY": 0.0, 
+     "z": 2, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "img/1.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }, 
+      {
+       "displayType": 0, 
+       "name": "img/mainHand (1).png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }, 
+      {
+       "displayType": 0, 
+       "name": "img/mainHand (2).png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "武器", 
+     "parent": "", 
+     "dI": 1, 
+     "bl": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": -43.35002899169922, 
+     "x": -0.6499729156494141, 
+     "kY": 0.0, 
+     "z": 1, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "img/Z-mainHand.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }, 
+      {
+       "displayType": 0, 
+       "name": "img/mainHand (1).png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }
+   ], 
+   "strVersion": "1.6.0.0", 
+   "version": 1.6, 
+   "name": "renB"
+  }
+ ], 
+ "texture_data": [
+  {
+   "plistFile": "", 
+   "name": "img/Z-mainHand", 
+   "pX": 0.5, 
+   "pY": 0.176724136, 
+   "height": 232.0, 
+   "width": 68.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/1", 
+   "pX": 0.5, 
+   "pY": 0.5, 
+   "height": 200.0, 
+   "width": 55.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/2", 
+   "pX": 0.5, 
+   "pY": 0.5, 
+   "height": 0.0, 
+   "width": 0.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/3", 
+   "pX": 0.5, 
+   "pY": 0.5, 
+   "height": 0.0, 
+   "width": 0.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/4", 
+   "pX": 0.5104167, 
+   "pY": 0.2824074, 
+   "height": 216.0, 
+   "width": 96.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/mainHand (1)", 
+   "pX": 0.5147059, 
+   "pY": 0.1637931, 
+   "height": 232.0, 
+   "width": 68.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/mainHand (2)", 
+   "pX": 0.5090909, 
+   "pY": 0.2, 
+   "height": 200.0, 
+   "width": 55.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/mainHand (3)", 
+   "pX": 0.5466667, 
+   "pY": 0.266666681, 
+   "height": 210.0, 
+   "width": 75.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/mainHand (4)", 
+   "pX": 0.5185185, 
+   "pY": 0.254629642, 
+   "height": 216.0, 
+   "width": 54.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/mainHand (5)", 
+   "pX": 0.5104167, 
+   "pY": 0.2824074, 
+   "height": 216.0, 
+   "width": 96.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "img/mainHand (6)", 
+   "pX": 0.5090909, 
+   "pY": 0.17159763, 
+   "height": 169.0, 
+   "width": 55.0
+  }
+ ], 
+ "content_scale": 1.0, 
+ "config_png_path": [
+  "renB0.png"
+ ], 
+ "config_file_path": [
+  "renB0.plist"
+ ]
+}

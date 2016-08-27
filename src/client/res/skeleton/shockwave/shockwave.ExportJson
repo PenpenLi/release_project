@@ -1,0 +1,122 @@
+{
+ "animation_data": [
+  {
+   "name": "shockwave", 
+   "mov_data": [
+    {
+     "name": "wave", 
+     "twE": 0, 
+     "to": 0, 
+     "lp": true, 
+     "mov_bone_data": [
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 5, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 4, 
+         "cY": 1.51974821, 
+         "cX": 1.50408089, 
+         "tweenFrame": true, 
+         "fi": 9, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 13, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "Layer1"
+      }
+     ], 
+     "sc": 1.0, 
+     "drTW": 0, 
+     "dr": 14
+    }
+   ]
+  }
+ ], 
+ "armature_data": [
+  {
+   "bone_data": [
+    {
+     "kX": 0.0, 
+     "name": "Layer1", 
+     "parent": "", 
+     "dI": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": 50.0, 
+     "x": -1.0, 
+     "kY": 0.0, 
+     "z": 1, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "shkwv.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }
+   ], 
+   "strVersion": "1.4.0.1", 
+   "version": 1.401, 
+   "name": "shockwave"
+  }
+ ], 
+ "texture_data": [
+  {
+   "plistFile": "", 
+   "name": "shkwv", 
+   "pX": 0.5, 
+   "pY": 0.5, 
+   "height": 96.0, 
+   "width": 96.0
+  }
+ ], 
+ "content_scale": 1.0, 
+ "config_png_path": [
+  "shockwave0.png"
+ ], 
+ "config_file_path": [
+  "shockwave0.plist"
+ ]
+}
