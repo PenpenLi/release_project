@@ -1,0 +1,461 @@
+{
+ "animation_data": [
+  {
+   "name": "GuaiX1", 
+   "mov_data": [
+    {
+     "name": "Stand", 
+     "twE": 0, 
+     "to": 0, 
+     "lp": true, 
+     "mov_bone_data": [
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": -1, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 4"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": -1, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 3"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": -1, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 5"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 1"
+      }
+     ], 
+     "sc": 0.4, 
+     "drTW": 0, 
+     "dr": 1
+    }, 
+    {
+     "name": "Attack", 
+     "twE": 0, 
+     "to": 0, 
+     "lp": true, 
+     "mov_bone_data": [
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": -1, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 0.270675659, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 1, 
+         "y": -147.0, 
+         "x": 44.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 3, 
+         "y": -85.0, 
+         "x": 44.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 4, 
+         "y": -85.0, 
+         "x": 44.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 4"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 0.2419281, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": -123.0, 
+         "x": 63.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 2, 
+         "y": -29.0, 
+         "x": 63.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 4, 
+         "y": -29.0, 
+         "x": 63.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 3"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": -1, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 0.259338379, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 2, 
+         "y": -97.0, 
+         "x": 104.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 4, 
+         "y": 0.0, 
+         "x": 104.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 5"
+      }, 
+      {
+       "frame_data": [
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }, 
+        {
+         "kX": 0.0, 
+         "dI": 0, 
+         "twE": 0, 
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "tweenFrame": true, 
+         "fi": 4, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "z": 0
+        }
+       ], 
+       "dl": 0.0, 
+       "name": "图层 1"
+      }
+     ], 
+     "sc": 0.4, 
+     "drTW": 0, 
+     "dr": 5
+    }
+   ]
+  }
+ ], 
+ "armature_data": [
+  {
+   "bone_data": [
+    {
+     "kX": 0.0, 
+     "name": "图层 4", 
+     "parent": "", 
+     "dI": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": 143.75001525878906, 
+     "x": -162.50001525878906, 
+     "kY": 0.0, 
+     "z": 4, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "资源/GuaiX11.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "图层 3", 
+     "parent": "", 
+     "dI": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": 143.75001525878906, 
+     "x": -162.50001525878906, 
+     "kY": 0.0, 
+     "z": 3, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "资源/GuaiX12.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "图层 5", 
+     "parent": "", 
+     "dI": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": 143.75001525878906, 
+     "x": -162.50001525878906, 
+     "kY": 0.0, 
+     "z": 2, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "资源/GuaiX13.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }, 
+    {
+     "kX": 0.0, 
+     "name": "图层 1", 
+     "parent": "", 
+     "dI": 0, 
+     "arrow_y": 0.0, 
+     "arrow_x": 0.0, 
+     "effectbyskeleton": false, 
+     "cY": 1.0, 
+     "cX": 1.0, 
+     "y": 55.75001525878906, 
+     "x": -162.50001525878906, 
+     "kY": 0.0, 
+     "z": 1, 
+     "display_data": [
+      {
+       "displayType": 0, 
+       "name": "资源/GuaiX10.png", 
+       "skin_data": [
+        {
+         "cY": 1.0, 
+         "cX": 1.0, 
+         "y": 0.0, 
+         "x": 0.0, 
+         "kY": 0.0, 
+         "kX": 0.0
+        }
+       ]
+      }
+     ]
+    }
+   ], 
+   "strVersion": "1.5.0.0", 
+   "version": 1.5, 
+   "name": "GuaiX1"
+  }
+ ], 
+ "texture_data": [
+  {
+   "plistFile": "", 
+   "name": "资源/GuaiX11", 
+   "pX": 0.0, 
+   "pY": 1.0, 
+   "height": 85.0, 
+   "width": 231.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "资源/GuaiX12", 
+   "pX": 0.0, 
+   "pY": 1.0, 
+   "height": 124.0, 
+   "width": 206.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "资源/GuaiX13", 
+   "pX": 0.0, 
+   "pY": 1.0, 
+   "height": 131.0, 
+   "width": 137.0
+  }, 
+  {
+   "plistFile": "", 
+   "name": "资源/GuaiX10", 
+   "pX": 0.0, 
+   "pY": 1.0, 
+   "height": 121.0, 
+   "width": 291.0
+  }
+ ], 
+ "content_scale": 1.0, 
+ "config_png_path": [
+  "GuaiX10.png"
+ ], 
+ "config_file_path": [
+  "GuaiX10.plist"
+ ]
+}
