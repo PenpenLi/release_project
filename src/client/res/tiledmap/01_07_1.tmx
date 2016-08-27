@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="3408" height="1142" tilewidth="1" tileheight="1">
+ <objectgroup name="object" width="3408" height="1142">
+  <object type="102" x="796" y="913" width="58" height="48"/>
+  <object type="102" x="947" y="901" width="58" height="48"/>
+  <object type="105" x="1569" y="570" width="58" height="50"/>
+  <object type="104" x="2211" y="907" width="58" height="48"/>
+  <object type="104" x="2363" y="915" width="58" height="48"/>
+ </objectgroup>
+ <objectgroup name="floot" width="3408" height="1142">
+  <object x="-102" y="1016" width="3615" height="10"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,16 @@
+<?xml version="1.0" ?><map height="1140" orientation="orthogonal" tileheight="1" tilewidth="1" version="1.0" width="2272">
+ <objectgroup height="1140" name="object" width="2272">
+  <object height="40" type="102" width="54" x="518" y="950"/>
+  <object height="42" type="103" width="52" x="613" y="948"/>
+  <object height="38" type="107" width="64" x="1456" y="935"/>
+  <object height="42" type="102" width="52" x="974" y="937"/>
+  <object height="42" type="103" width="52" x="1098" y="941"/>
+ </objectgroup>
+ <objectgroup height="1140" name="floot" width="2272">
+  <object height="24" width="2336" x="-32" y="1030">
+   <properties>
+    <property name="type" value="dimian"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="4544" height="1140" tilewidth="1" tileheight="1">
+ <objectgroup name="object" width="4544" height="1140">
+  <object type="5560" x="195" y="895" width="72" height="44">
+   <properties>
+    <property name="group" value="-1"/>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="5561" x="4481" y="949" width="51" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="floot" width="4544" height="1140">
+  <object x="-212" y="1034" width="7520" height="33">
+   <properties>
+    <property name="type" value="dimian"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

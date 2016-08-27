@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="6816" height="1140" tilewidth="1" tileheight="1">
+ <objectgroup name="object" width="6816" height="1140">
+  <object type="100000" x="311" y="935" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100001" x="1129" y="924" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100003" x="2345" y="936" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100006" x="4388" y="941" width="72" height="56">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100040" x="5314" y="951" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100004" x="3145" y="935" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100005" x="3780" y="941" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100042" x="1761" y="931" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+  <object type="100042" x="1864" y="933" width="72" height="44">
+   <properties>
+    <property name="monster_id" value="1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="floot" width="6816" height="1140">
+  <object x="-153" y="1007" width="7520" height="33">
+   <properties>
+    <property name="type" value="dimian"/>
+   </properties>
+  </object>
+  <object x="-72" y="952" width="280" height="48"/>
+ </objectgroup>
+</map>
