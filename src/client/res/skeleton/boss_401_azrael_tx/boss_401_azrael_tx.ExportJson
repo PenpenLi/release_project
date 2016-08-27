@@ -1,0 +1,3089 @@
+{
+  "content_scale": 1.0,
+  "armature_data": [
+    {
+      "strVersion": "1.6.0.0",
+      "version": 1.6,
+      "name": "boss_401_azrael_tx",
+      "bone_data": [
+        {
+          "name": "a8",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 8,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx01.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx02.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx03.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx04.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a7",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 7,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx30.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a6",
+          "parent": "",
+          "dI": 0,
+          "x": 0.0,
+          "y": 0.0,
+          "z": 6,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx05.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx06.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx07.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx08.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx09.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx10.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a5",
+          "parent": "",
+          "dI": 1,
+          "x": 3.8499999046325684,
+          "y": 66.1500015258789,
+          "z": 5,
+          "cX": 1.0,
+          "cY": 1.18556213,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx39.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx40.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx11.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx12.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx13.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx14.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx15.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx16.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a4",
+          "parent": "",
+          "dI": 0,
+          "x": -58.75,
+          "y": 85.25,
+          "z": 4,
+          "cX": 1.67597961,
+          "cY": 1.70388794,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx37.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx19.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx18.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx17.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a3",
+          "parent": "",
+          "dI": 0,
+          "x": -33.0,
+          "y": -0.85000002384185791,
+          "z": 3,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx38.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx17.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx18.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx19.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx20.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx21.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx22.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx23.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx24.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx25.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx26.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx27.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx28.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a2",
+          "parent": "",
+          "dI": 0,
+          "x": -38.700000762939453,
+          "y": 71.5999984741211,
+          "z": 2,
+          "cX": 1.0,
+          "cY": 1.0,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx31.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "a1",
+          "parent": "",
+          "dI": 1,
+          "x": -25.600000381469727,
+          "y": 84.550003051757812,
+          "z": 1,
+          "cX": 2.0,
+          "cY": 2.28256226,
+          "kX": 0.0,
+          "kY": 0.0,
+          "arrow_x": 0.0,
+          "arrow_y": 0.0,
+          "effectbyskeleton": false,
+          "bl": 0,
+          "display_data": [
+            {
+              "name": "img/boss02-tx32.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx33.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx34.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx35.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx36.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            },
+            {
+              "name": "img/boss02-tx29.png",
+              "displayType": 0,
+              "skin_data": [
+                {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "animation_data": [
+    {
+      "name": "boss_401_azrael_tx",
+      "mov_data": [
+        {
+          "name": "Stand",
+          "dr": 10,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.5,
+          "mov_bone_data": [
+            {
+              "name": "a8",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a7",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a6",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a5",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 1,
+                  "x": 6.0499997138977051,
+                  "y": 16.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.22680664,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 2,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 1.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.02062988,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 4,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 1,
+                  "x": 6.0499997138977051,
+                  "y": 6.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.02062988,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -5.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.8969116,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                }
+              ]
+            },
+            {
+              "name": "a4",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                }
+              ]
+            },
+            {
+              "name": "a3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": -10.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 4,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 9,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -8.3999996185302734,
+                  "y": 4.149993896484375,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 2,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -13.350000381469727,
+                  "y": -3.850006103515625,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 4,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -7.3999996185302734,
+                  "y": 2.2999954223632812,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": -7.3999996185302734,
+                  "y": 1.899993896484375,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stand2",
+          "dr": 62,
+          "lp": true,
+          "to": 0,
+          "drTW": 0,
+          "twE": 0,
+          "sc": 0.5,
+          "mov_bone_data": [
+            {
+              "name": "a8",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 2,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 4,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 6,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 10,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 12,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 16,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 18,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 20,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 22,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 32,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 34,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 36,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 38,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 40,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 42,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 44,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 46,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 51,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 53,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 204,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -201.64999389648438,
+                  "y": 279.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 147,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -201.14999389648438,
+                  "y": 280.10000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 57,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 130,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -201.64999389648438,
+                  "y": 278.14999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 59,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 101,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -202.05000305175781,
+                  "y": 279.35000610351562,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 61,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 50,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a7",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 16,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -503.14999389648438,
+                  "y": 299.85000610351562,
+                  "z": 0,
+                  "cX": 2.5390625,
+                  "cY": 1.33427429,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 119,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -536.0999755859375,
+                  "y": 538.25,
+                  "z": 0,
+                  "cX": 3.113449,
+                  "cY": 2.353119,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 160,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 0,
+                  "x": -505.10000610351562,
+                  "y": 444.10000610351562,
+                  "z": 0,
+                  "cX": 2.57389832,
+                  "cY": 1.95079041,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 32,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a6",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 0,
+                  "x": -529.0,
+                  "y": 434.60000610351562,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 44,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 1,
+                  "x": -531.9000244140625,
+                  "y": 434.20001220703125,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 46,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 2,
+                  "x": -526.70001220703125,
+                  "y": 411.39999389648438,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 48,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 3,
+                  "x": -532.0,
+                  "y": 435.20001220703125,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 4,
+                  "x": -534.9000244140625,
+                  "y": 438.10000610351562,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 52,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": 5,
+                  "x": -504.5,
+                  "y": 245.0,
+                  "z": 0,
+                  "cX": 2.0,
+                  "cY": 2.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 54,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 1
+                },
+                {
+                  "dI": -1,
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a5",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": -3.8499999046325684,
+                  "y": -66.1500015258789,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.814437866,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": -3.8499999046325684,
+                  "y": -66.1500015258789,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.814437866,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -445.0,
+                  "y": 102.29999542236328,
+                  "z": 0,
+                  "cX": 2.9699707,
+                  "cY": 2.78440857,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -454.80001831054688,
+                  "y": 96.5999984741211,
+                  "z": 0,
+                  "cX": 2.9699707,
+                  "cY": 2.78440857,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 45,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": -455.35000610351562,
+                  "y": 154.35000610351563,
+                  "z": 0,
+                  "cX": 2.9699707,
+                  "cY": 2.78440857,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 47,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -450.05001831054688,
+                  "y": 155.70001220703125,
+                  "z": 0,
+                  "cX": 2.9699707,
+                  "cY": 2.78440857,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": -457.14999389648438,
+                  "y": 161.75,
+                  "z": 0,
+                  "cX": 2.9699707,
+                  "cY": 2.78440857,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 51,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": -457.05001831054688,
+                  "y": 122.79999542236328,
+                  "z": 0,
+                  "cX": 2.9699707,
+                  "cY": 2.78440857,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 53,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": -3.8499999046325684,
+                  "y": -66.1500015258789,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.814437866,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a4",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 58.75,
+                  "y": -85.25,
+                  "z": 0,
+                  "cX": 0.3240204,
+                  "cY": 0.296112061,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 58.75,
+                  "y": -85.25,
+                  "z": 0,
+                  "cX": 0.3240204,
+                  "cY": 0.296112061,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 58.75,
+                  "y": -85.25,
+                  "z": 0,
+                  "cX": 0.3240204,
+                  "cY": 0.296112061,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 58.75,
+                  "y": -85.25,
+                  "z": 0,
+                  "cX": 0.3240204,
+                  "cY": 0.296112061,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -88.100006103515625,
+                  "y": 179.85000610351563,
+                  "z": 0,
+                  "cX": 2.44487,
+                  "cY": 2.41696167,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 209,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -56.400001525878906,
+                  "y": 173.79998779296875,
+                  "z": 0,
+                  "cX": 3.32402039,
+                  "cY": 3.296112,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 57,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 186,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -48.400001525878906,
+                  "y": 135.80000305175781,
+                  "z": 0,
+                  "cX": 2.7275238,
+                  "cY": 2.69961548,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 59,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 153,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -35.150001525878906,
+                  "y": 53.050003051757812,
+                  "z": 0,
+                  "cX": 3.32395935,
+                  "cY": 3.296051,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 60,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 94,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 58.75,
+                  "y": -85.25,
+                  "z": 0,
+                  "cX": 0.3240204,
+                  "cY": 0.296112061,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 62,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a3",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 33.0,
+                  "y": 0.85000002384185791,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -60.900001525878906,
+                  "y": 139.15000915527344,
+                  "z": 0,
+                  "cX": 3.999939,
+                  "cY": 3.999939,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -82.1500015258789,
+                  "y": 259.89999389648438,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 11,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -113.85000610351563,
+                  "y": 265.95001220703125,
+                  "z": 0,
+                  "cX": 3.12084961,
+                  "cY": 3.12084961,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 14,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 33.0,
+                  "y": 0.85000002384185791,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 17,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 1,
+                  "x": -46.349998474121094,
+                  "y": 423.20001220703125,
+                  "z": 0,
+                  "cX": 3.999939,
+                  "cY": 3.999939,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 23,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 2,
+                  "x": -67.5999984741211,
+                  "y": 543.949951171875,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 3,
+                  "x": -127.5,
+                  "y": 607.199951171875,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 26,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 33.0,
+                  "y": 0.85000002384185791,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 4,
+                  "x": -79.25,
+                  "y": 661.25,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 30,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -67.0,
+                  "y": 651.25,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 32,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 6,
+                  "x": -79.4000015258789,
+                  "y": 652.25,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 35,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 7,
+                  "x": -85.5,
+                  "y": 644.39996337890625,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 38,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 8,
+                  "x": -121.10000610351563,
+                  "y": 715.199951171875,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 41,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": -446.14999389648438,
+                  "y": 624.0999755859375,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": -451.45001220703125,
+                  "y": 616.8499755859375,
+                  "z": 0,
+                  "cX": 3.99978971,
+                  "cY": 3.988919,
+                  "kX": -0.0140470266,
+                  "kY": 0.0141461128,
+                  "fi": 44,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 9,
+                  "x": -481.1500244140625,
+                  "y": 569.5,
+                  "z": 0,
+                  "cX": 3.99999666,
+                  "cY": 3.934717,
+                  "kX": -0.101482272,
+                  "kY": 0.103977621,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 10,
+                  "x": -247.89999389648438,
+                  "y": 720.199951171875,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 50,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 181,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 11,
+                  "x": -81.4000015258789,
+                  "y": 644.39996337890625,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 51,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 112,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 12,
+                  "x": -79.25,
+                  "y": 652.25,
+                  "z": 0,
+                  "cX": 4.0,
+                  "cY": 4.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 53,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "color": {
+                    "a": 58,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 33.0,
+                  "y": 0.85000002384185791,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 55,
+                  "twE": 0,
+                  "tweenFrame": false,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a2",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 38.700000762939453,
+                  "y": -71.5999984741211,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 38.700000762939453,
+                  "y": -71.5999984741211,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 1.0,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            },
+            {
+              "name": "a1",
+              "dl": 0.0,
+              "frame_data": [
+                {
+                  "dI": -1,
+                  "x": 25.600000381469727,
+                  "y": -84.550003051757812,
+                  "z": 0,
+                  "cX": 0.0,
+                  "cY": -0.282562256,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 0,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 25.600000381469727,
+                  "y": -84.550003051757812,
+                  "z": 0,
+                  "cX": 0.0,
+                  "cY": -0.282562256,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 8,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -301.75,
+                  "y": 258.9000244140625,
+                  "z": 0,
+                  "cX": 0.9416199,
+                  "cY": 0.522583,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 17,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 91,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -477.5,
+                  "y": 361.8499755859375,
+                  "z": 0,
+                  "cX": 1.96871948,
+                  "cY": 1.16760254,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 21,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 227,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -311.75,
+                  "y": 290.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.717437744,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 24,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -311.75,
+                  "y": 304.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.7675781,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 28,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -311.75,
+                  "y": 290.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.717437744,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 32,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -311.75,
+                  "y": 304.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.7675781,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 37,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -311.75,
+                  "y": 290.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.717437744,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 43,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -311.75,
+                  "y": 290.0,
+                  "z": 0,
+                  "cX": 1.0,
+                  "cY": 0.717437744,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 49,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": 5,
+                  "x": -143.29998779296875,
+                  "y": 205.80000305175781,
+                  "z": 0,
+                  "cX": 0.0151977539,
+                  "cY": 0.189788818,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 56,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "color": {
+                    "a": 0,
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "bd_src": 1,
+                  "bd_dst": 771
+                },
+                {
+                  "dI": -1,
+                  "x": 25.600000381469727,
+                  "y": -84.550003051757812,
+                  "z": 0,
+                  "cX": 0.0,
+                  "cY": -0.282562256,
+                  "kX": 0.0,
+                  "kY": 0.0,
+                  "fi": 57,
+                  "twE": 0,
+                  "tweenFrame": true,
+                  "bd_src": 1,
+                  "bd_dst": 771
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "texture_data": [
+    {
+      "name": "img/boss02-tx01",
+      "width": 100.0,
+      "height": 80.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx02",
+      "width": 100.0,
+      "height": 80.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx03",
+      "width": 100.0,
+      "height": 80.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx04",
+      "width": 100.0,
+      "height": 80.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx30",
+      "width": 128.0,
+      "height": 256.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx05",
+      "width": 181.0,
+      "height": 232.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx06",
+      "width": 181.0,
+      "height": 232.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx07",
+      "width": 181.0,
+      "height": 232.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx08",
+      "width": 181.0,
+      "height": 232.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx09",
+      "width": 181.0,
+      "height": 232.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx10",
+      "width": 144.0,
+      "height": 131.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx39",
+      "width": 155.0,
+      "height": 97.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx40",
+      "width": 155.0,
+      "height": 97.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx11",
+      "width": 60.0,
+      "height": 62.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx12",
+      "width": 71.0,
+      "height": 60.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx13",
+      "width": 70.0,
+      "height": 79.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx14",
+      "width": 71.0,
+      "height": 80.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx15",
+      "width": 79.0,
+      "height": 79.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx16",
+      "width": 73.0,
+      "height": 66.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx37",
+      "width": 100.0,
+      "height": 100.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx19",
+      "width": 99.0,
+      "height": 99.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx18",
+      "width": 57.0,
+      "height": 62.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx17",
+      "width": 34.0,
+      "height": 28.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx38",
+      "width": 72.0,
+      "height": 49.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx20",
+      "width": 94.0,
+      "height": 99.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx21",
+      "width": 85.0,
+      "height": 91.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx22",
+      "width": 88.0,
+      "height": 88.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx23",
+      "width": 85.0,
+      "height": 85.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx24",
+      "width": 91.0,
+      "height": 102.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx25",
+      "width": 122.0,
+      "height": 162.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx26",
+      "width": 125.0,
+      "height": 108.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx27",
+      "width": 85.0,
+      "height": 85.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx28",
+      "width": 85.0,
+      "height": 85.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx31",
+      "width": 100.0,
+      "height": 122.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx32",
+      "width": 107.0,
+      "height": 71.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx33",
+      "width": 147.0,
+      "height": 71.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx34",
+      "width": 147.0,
+      "height": 71.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx35",
+      "width": 147.0,
+      "height": 71.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx36",
+      "width": 147.0,
+      "height": 71.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    },
+    {
+      "name": "img/boss02-tx29",
+      "width": 264.0,
+      "height": 183.0,
+      "pX": 0.0,
+      "pY": 1.0,
+      "plistFile": ""
+    }
+  ],
+  "config_file_path": [
+    "boss_401_azrael_tx0.plist"
+  ],
+  "config_png_path": [
+    "boss_401_azrael_tx0.png"
+  ]
+}
